@@ -1,7 +1,7 @@
 /*
  Matthew Ludwig
  February 21 2019
- 
+ This program encrypts and decrypts messages by rotating letters
  */
 package simpleencryption;
 
